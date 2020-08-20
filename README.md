@@ -36,51 +36,51 @@
 
 ### 系列教程
 
-*1，Spring Boot系列
-2，Spring Boot + Vue 前后端分离
-3，我的开源项目
-4，Git系列
-5，微信小程序系列
-6，Flutter入门到项目开发
-7，副业赚钱系列
-8，职场进阶系列
-9，项目管理 及其 敏捷开发流程 系列
+*[1，Spring Boot系列]
+*[2，Spring Boot + Vue 前后端分离]
+*[3，我的开源项目]
+*[4，Git系列]
+*[5，微信小程序系列]
+*[6，Flutter入门到项目开发]
+*[7，副业赚钱系列]
+*[8，职场进阶系列]
+*[9，项目管理 及其 敏捷开发流程 系列]
 
 
 **Spring Boot系列**
 
 
-Spring Boot （一）初识Spring Boot框架
+*Spring Boot （一）初识Spring Boot框架*
 
-Spring Boot （二）Spring Boot基本配置
+*Spring Boot （二）Spring Boot基本配置*
 
-Spring Boot （三）自动配置原理
+*Spring Boot （三）自动配置原理*
 
-Spring Boot （四）web项目开发
+*Spring Boot （四）web项目开发*
 
-Spring Boot （五）web开发相关配置
+*Spring Boot （五）web开发相关配置*
 
-Spring Boot （六）web项目开发中的SSL配置
+*Spring Boot （六）web项目开发中的SSL配置*
 
-Spring Boot （七）Spring Boot WebSocket开发
+*Spring Boot （七）Spring Boot WebSocket开发**
 
-Spring Boot （八）Spring Boot实现聊天功能
+*Spring Boot （八）Spring Boot实现聊天功能*
 
-Spring Boot （九）Spring Boot 中使用Bootstrap和AngularJS
+*Spring Boot （九）Spring Boot 中使用Bootstrap和AngularJS*
 
-Spring Boot （十）Spring Boot中使用JPA
+*Spring Boot （十）Spring Boot中使用JPA*
 
-Spring Boot（十一）Spring Boot中使用REST资源输出
+*Spring Boot（十一）Spring Boot中使用REST资源输出*
 
-Spring Boot（十二）Spring Boot 中数据库事务的使用
+*Spring Boot（十二）Spring Boot 中数据库事务的使用*
 
-Spring Boot 启动原理解析
+*Spring Boot 启动原理解析*
 
-这些Spring Boot注解你都了解吗？
+*这些Spring Boot注解你都了解吗？*
 
-Spring Boot（十三）Spring Boot中数据缓存的使用
+*Spring Boot（十三）Spring Boot中数据缓存的使用**
 
-Spring Boot（十四）使用Security实现权限控制
+*Spring Boot（十四）使用Security实现权限控制*
 
 
 **Spring Boot + Vue 前后端分离**
