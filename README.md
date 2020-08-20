@@ -226,7 +226,7 @@ IT项目开发流程
 
 ### 联系我
 
-![个人微信]()
+![个人微信](https://img-blog.csdnimg.cn/20200820172706336.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppYW5wZW5neHVleGlrYWlmYQ==,size_16,color_FFFFFF,t_70)
 
 
 ### 公众号
@@ -235,5 +235,5 @@ IT项目开发流程
 
 **有关学习视频和面试资料，[公众号](#公众号：程序职场)后台回复 **"学习资料"** 即可免费领取！
 
-![我的公众号]()
+![我的公众号](https://img-blog.csdnimg.cn/20200226193248649.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppYW5wZW5neHVleGlrYWlmYQ==,size_16,color_FFFFFF,t_70)
 
