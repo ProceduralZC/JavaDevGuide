@@ -30,9 +30,9 @@
 
 **知识系统总结：**
 
-1. **[最新Java核心技术教程](https://mp.weixin.qq.com/s/aCC9Z2ijPJESWx5hFJ-HJQ)**
-2. **[第二期学习资源（前端）【资源】](https://mp.weixin.qq.com/s/adna4mrYAW_HYulFZwXNkQ)**
-3. **[第一期学习资源（JAVA）【资源】](https://mp.weixin.qq.com/s/pdbdaJfxDcrx6M-vkGfypQ)**
+1. *[最新Java核心技术教程](https://mp.weixin.qq.com/s/aCC9Z2ijPJESWx5hFJ-HJQ)*
+2. *[第二期学习资源（前端）【资源】](https://mp.weixin.qq.com/s/adna4mrYAW_HYulFZwXNkQ)*
+3. *[第一期学习资源（JAVA）【资源】](https://mp.weixin.qq.com/s/pdbdaJfxDcrx6M-vkGfypQ)*
 
 ### 系列教程
 
