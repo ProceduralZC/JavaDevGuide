@@ -226,7 +226,7 @@ IT项目开发流程
 
 ### 联系我
 
-![个人微信](https://img-blog.csdnimg.cn/20200820172706336.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppYW5wZW5neHVleGlrYWlmYQ==,size_16,color_FFFFFF,t_70)
+![个人微信](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6941970c818d4d4a9737a36bca26a9e8~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 ### 公众号
