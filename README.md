@@ -36,25 +36,25 @@
 
 ### 系列教程
 
-- [1，Spring Boot系列]
-- [2，Spring Boot + Vue 前后端分离]
-- [3，我的开源项目]
-- [4，Git系列]
-- [5，微信小程序系列]
-- [6，Flutter入门到项目开发]
-- [7，副业赚钱系列]
-- [8，职场进阶系列]
-- [9，项目管理 及其 敏捷开发流程 系列]
+* [1，Spring Boot系列]
+* [2，Spring Boot + Vue 前后端分离]
+* [3，我的开源项目]
+* [4，Git系列]
+* [5，微信小程序系列]
+* [6，Flutter入门到项目开发]
+* [7，副业赚钱系列]
+* [8，职场进阶系列]
+* [9，项目管理 及其 敏捷开发流程 系列]
 
 
 **Spring Boot系列**
 
 
-*Spring Boot （一）初识Spring Boot框架*
+* [Spring Boot （一）初识Spring Boot框架](https://mp.weixin.qq.com/s/o4fk0cp3lF9207UMcjgwSw)
 
-*Spring Boot （二）Spring Boot基本配置*
+* [Spring Boot （二）Spring Boot基本配置](https://mp.weixin.qq.com/s/g68CuNcGk30ZGji2PjcoLQ)
 
-*Spring Boot （三）自动配置原理*
+* [Spring Boot （三）自动配置原理]()
 
 *Spring Boot （四）web项目开发*
 
