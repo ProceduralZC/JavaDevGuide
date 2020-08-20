@@ -54,7 +54,7 @@
 
 * [Spring Boot （二）Spring Boot基本配置](https://mp.weixin.qq.com/s/g68CuNcGk30ZGji2PjcoLQ)
 
-* [Spring Boot （三）自动配置原理]()
+* [Spring Boot （三）自动配置原理](https://mp.weixin.qq.com/s/a0AxB7JgK-RKuYzcs2Yq1Q)
 
 *Spring Boot （四）web项目开发*
 
@@ -85,7 +85,7 @@
 
 **Spring Boot + Vue 前后端分离**
 
-Spring Boot + Vue前后端分离（一）前端Vue环境搭建
+* [Spring Boot + Vue前后端分离（一）前端Vue环境搭建](https://mp.weixin.qq.com/s/xgYwKS_ASDZpnr7LOeOyIQ)
 
 Spring Boot + Vue前后端分离（二）前端Vue启动流程
 
@@ -108,14 +108,14 @@ Spring Boot+ Vue前后端分离（十）使用Shiro实现登录认证
 
 **我的开源项目**
 
-一点知识学院（开源项目）
+* [一点知识学院（开源项目）](https://mp.weixin.qq.com/s/kVXQ7zp4QpGytiQjdo_7Pw)
 
 Eclipse项目如何导入IDEA中正常启动（案例：一点知识学院）
 
 
 **Git系列**
 
-Git（一）Git介绍和安装
+* [Git（一）Git介绍和安装](https://mp.weixin.qq.com/s/PfwznusZHH5JOrkuYQbcvQ)
 
 Git（二）Gitlab账号和Github账号同时使用
 
@@ -132,7 +132,7 @@ Git（六）Git标签管理
 
 **微信小程序系列**
 
-小程序（一）了解小程序
+* [小程序（一）了解小程序](https://mp.weixin.qq.com/s/m4yAbqrJcoC7jdoUd_fqug)
 
 小程序（二）小程序appID获取和项目目录结构
 
@@ -155,7 +155,7 @@ Git（六）Git标签管理
 
 **Flutter入门到项目开发**
 
-flutter（一）介绍和环境搭建
+* [flutter（一）介绍和环境搭建](https://mp.weixin.qq.com/s/SAFxgDankrga2SeQGP2MZQ)
 
 flutter（二）开发工具的介绍和安装，运行项目
 
@@ -172,12 +172,12 @@ flutter（七）入口程序解读和模板添加
 
 **副业赚钱系列**
 
-没有资源没有运营能力，我还是开启了副业之路
+* [没有资源没有运营能力，我还是开启了副业之路](https://mp.weixin.qq.com/s/8b7b5sD_u1zXxFLhdsOAeQ)
 
 
 **职场进阶系列**
 
-怎样才能成为自由者？
+* [怎样才能成为自由者？](https://mp.weixin.qq.com/s/AqqX9jWv_TVol1nljEdRWw)
 
 职场我们如何寻找自己的定位？
 
@@ -188,7 +188,7 @@ flutter（七）入口程序解读和模板添加
 
 **项目管理 及其 敏捷开发流程 系列**
 
-Scrum敏捷流程-每日会议
+* [Scrum敏捷流程-每日会议](https://mp.weixin.qq.com/s/R14sAPNMvTy2rdh5qDxb7w)
 
 主动承担和被动承担差别有多大
 
