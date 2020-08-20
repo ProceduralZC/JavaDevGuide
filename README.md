@@ -213,6 +213,8 @@ IT项目开发流程
 
 ### 我的开源项目
 
+* [一点知识学院（开源项目）](https://mp.weixin.qq.com/s/kVXQ7zp4QpGytiQjdo_7Pw)
+* [Eclipse项目如何导入IDEA中正常启动（案例：一点知识学院）](https://mp.weixin.qq.com/s/GgXwF2RVo5u6V6QX2Wyk6Q)
 
 ### 待办
 
