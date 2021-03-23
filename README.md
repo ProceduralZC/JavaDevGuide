@@ -15,6 +15,7 @@
 
 - [Java](#java)
     - [Java干货](#Java干货)
+    - [3T视频资源](#3T视频资源)
     - [系列教程](#系列教程)
 - [1000本电子书](#1000本电子书)
     - [面试](#面试)
@@ -31,9 +32,11 @@
 
 ### Java干货
 
-**知识系统总结：**
-
 1. *[最新Java核心技术教程](https://mp.weixin.qq.com/s/aCC9Z2ijPJESWx5hFJ-HJQ)*
+
+### 3T视频资源
+
+1. *[Java实战项目，附带源码+视频教程。【资源】](https://mp.weixin.qq.com/s/t8II1rOPCWjTh-UidogCjA)*
 2. *[第二期学习资源（前端）【资源】](https://mp.weixin.qq.com/s/adna4mrYAW_HYulFZwXNkQ)*
 3. *[第一期学习资源（JAVA）【资源】](https://mp.weixin.qq.com/s/pdbdaJfxDcrx6M-vkGfypQ)*
 
