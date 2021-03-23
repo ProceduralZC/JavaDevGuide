@@ -17,6 +17,8 @@
     - [Java干货](#Java干货)
     - [系列教程](#系列教程)
 - [1000本电子书](#1000本电子书)
+    - [面试](#面试)
+    - [核心基础](#核心基础)
 - [面试指南](#面试指南)
 - [Java学习常见问题汇总](#java学习常见问题汇总)
 - [资源](#资源)
@@ -205,9 +207,13 @@
 * [搞定Java初级面试题，147道Java面试题](https://mp.weixin.qq.com/s/bvhVOFJ3SPiTlfDatueAjw)
 
 
-### 1000本电子书
+## 1000本电子书
+
+### 面试
 
 剑指offer * [百度云下载连接](https://pan.baidu.com/s/1ozA45E5zxHYOlFcM3xcPSg) 提取码：ul2g
+
+### 核心基础
 
 Head First Java 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1xisTedd8E2L4U6I_SKcUMw) 提取码：8mxt
 
