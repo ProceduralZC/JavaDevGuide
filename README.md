@@ -224,6 +224,7 @@
 ### 核心基础
 
 Head First Java 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1xisTedd8E2L4U6I_SKcUMw) 提取码：8mxt
+Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1Wp1bFmnwlvkHR_MbMMWWng) 提取码：g0mk
 
 ### java学习常见问题汇总
 
