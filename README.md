@@ -13,10 +13,6 @@
 
 ## 目录
 
-- [Java](#java)
-    - [Java干货](#Java干货)
-    - [3T免费视频资源](#3T免费视频资源)
-    - [系列教程](#系列教程)
 - [电子书](#电子书)
     - [面试](#面试)
     - [算法](#算法)
@@ -26,8 +22,45 @@
 - [资源](#资源)
     - [实战项目推荐](#实战项目推荐)
     - [我的开源项目](#我的开源项目)
+- [Java](#java)
+    - [Java干货](#Java干货)
+    - [3T免费视频资源](#3T免费视频资源)
+    - [系列教程](#系列教程)
 - [待办](#待办)
 - [说明](#说明)
+
+
+### 面试指南
+* [搞定Java初级面试题，147道Java面试题](https://mp.weixin.qq.com/s/bvhVOFJ3SPiTlfDatueAjw)
+
+
+## 电子书
+
+### 面试
+
+剑指offer * [百度云下载连接](https://pan.baidu.com/s/1ozA45E5zxHYOlFcM3xcPSg) 提取码：ul2g
+
+### 算法
+
+数据结构与算法 * [百度云下载连接](https://pan.baidu.com/s/1Dt_AxI_LYA4Ajlm3Qef6sg) 提取码：iqw7
+
+### 核心基础
+
+Head First Java 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1xisTedd8E2L4U6I_SKcUMw) 提取码：8mxt
+Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1Wp1bFmnwlvkHR_MbMMWWng) 提取码：g0mk
+
+### java学习常见问题汇总
+
+
+## 资源
+
+### 实战项目推荐
+
+
+### 我的开源项目
+
+* [一点知识学院（开源项目）](https://mp.weixin.qq.com/s/kVXQ7zp4QpGytiQjdo_7Pw)
+* [Eclipse项目如何导入IDEA中正常启动（案例：一点知识学院）](https://mp.weixin.qq.com/s/GgXwF2RVo5u6V6QX2Wyk6Q)
 
 ## Java
 
@@ -205,39 +238,6 @@
 
 * [项目中怎么使用敏捷开发流程](https://mp.weixin.qq.com/s/y1tzP4m4PI28-C_Hw4YXmQ)
 
-
-
-### 面试指南
-* [搞定Java初级面试题，147道Java面试题](https://mp.weixin.qq.com/s/bvhVOFJ3SPiTlfDatueAjw)
-
-
-## 电子书
-
-### 面试
-
-剑指offer * [百度云下载连接](https://pan.baidu.com/s/1ozA45E5zxHYOlFcM3xcPSg) 提取码：ul2g
-
-### 算法
-
-数据结构与算法 * [百度云下载连接](https://pan.baidu.com/s/1Dt_AxI_LYA4Ajlm3Qef6sg) 提取码：iqw7
-
-### 核心基础
-
-Head First Java 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1xisTedd8E2L4U6I_SKcUMw) 提取码：8mxt
-Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com/s/1Wp1bFmnwlvkHR_MbMMWWng) 提取码：g0mk
-
-### java学习常见问题汇总
-
-
-## 资源
-
-### 实战项目推荐
-
-
-### 我的开源项目
-
-* [一点知识学院（开源项目）](https://mp.weixin.qq.com/s/kVXQ7zp4QpGytiQjdo_7Pw)
-* [Eclipse项目如何导入IDEA中正常启动（案例：一点知识学院）](https://mp.weixin.qq.com/s/GgXwF2RVo5u6V6QX2Wyk6Q)
 
 ### 待办
 
