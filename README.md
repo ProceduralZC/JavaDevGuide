@@ -55,6 +55,8 @@ Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com
 ## 资源
 
 ### 实战项目推荐
+- 商品供销系统       [百度云下载链接](https://pan.baidu.com/s/14AIEXhLpZVBFwOJ3Mt2izA)  密码:9buz
+
 
 
 ### 我的开源项目
