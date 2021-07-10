@@ -56,7 +56,9 @@ Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com
 
 ### 实战项目推荐
 - 商品供销系统       [百度云下载链接](https://pan.baidu.com/s/14AIEXhLpZVBFwOJ3Mt2izA)  密码:9buz
-
+- 用户管理系统       [百度云下载链接](https://pan.baidu.com/s/18Y2nPzck91nhXbfyRq4EIw)  密码:wxbc
+- SSM淘宝商城12天电商项目       [百度云下载链接](https://pan.baidu.com/s/13NImQSEGft3iTAaUU4oaxg)  密码:cncv
+- SSM高级整合视频       [百度云下载链接](https://pan.baidu.com/s/1FrCZivDR_r2N96IFhAY7dQ)  密码:9djy
 
 
 ### 我的开源项目
