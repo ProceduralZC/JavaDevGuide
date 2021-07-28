@@ -60,6 +60,8 @@ Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com
 - SSM淘宝商城12天电商项目       [百度云下载链接](https://pan.baidu.com/s/13NImQSEGft3iTAaUU4oaxg)  密码:cncv
 - SSM高级整合视频       [百度云下载链接](https://pan.baidu.com/s/1FrCZivDR_r2N96IFhAY7dQ)  密码:9djy
 - 高仿豆瓣项目源码       [百度云下载链接](https://pan.baidu.com/s/1AMhe-3iFPCcZ-R65geKIBg)  密码:3lmv
+- 目新巴巴运动网（spring+springmvc+mybatis）       [百度云下载链接](https://pan.baidu.com/s/1d882LM8pvxWYfHNQfwEXnA)  密码:3c2h
+- SSM2018年3月品优购电商系统开发       [百度云下载链接](https://pan.baidu.com/s/1_PEmkW5wGtF2Xnbmz88O2Q)  密码:hkpz
 
 
 ### 我的开源项目
