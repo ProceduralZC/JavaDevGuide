@@ -1,4 +1,4 @@
-如果 Github 访问速度比较慢或者图片无法刷新出来的话，可以转移到[码云](https://gitee.com/dot_happydz_admin/JavaDevGuide )查看，或者[微信搜索：程序员漫画编程，关注后阅读]。
+如果 Github 访问速度比较慢或者图片无法刷新出来的话，可以转移到[码云](https://gitee.com/dot_happydz_admin/JavaDevGuide )查看，或者[微信搜索：程序员漫话编程，关注后阅读]。
 
 在[公众号](#公众号)后台回复“学习资料”即可获取学习干货。
 
@@ -220,7 +220,7 @@ Java编程思想 中文高清版 * [百度云下载连接](https://pan.baidu.com
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-**有关学习视频和面试资料，[公众号](#公众号：程序员漫画编程)后台回复 **"学习资料"** 即可免费领取！
+**有关学习视频和面试资料，[公众号](#公众号：程序员漫话编程)后台回复 **"学习资料"** 即可免费领取！
 
 ![我的公众号](https://img-blog.csdnimg.cn/20201009212156961.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ppYW5wZW5neHVleGlrYWlmYQ==,size_16,color_FFFFFF,t_70)
 
